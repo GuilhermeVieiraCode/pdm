@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="sim">SIM</string>
+    <string name="nao">NÃO</string>
+</resources>
